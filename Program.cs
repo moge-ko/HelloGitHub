@@ -6,6 +6,7 @@ public class Program
 	{
 		Console.WriteLine("Hello, World!");
 		Console.WriteLine("Oscar Romero was here!");
+		Console.WriteLine("Gean Hevia has graced you with his presence!");
 	}
 
 
