@@ -2,7 +2,7 @@
 Henry F. Bruckman Vargas
 Gean C. Hevia Cruz
 Oscar Romero Barbosa
-Boohya!
+Gabriel Rrivera Gomez :)
 Meh!
 |(-.-)|
 ```
